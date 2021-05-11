@@ -16,6 +16,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片_ {
 }
 ._一级标题 {
@@ -68,6 +70,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -87,5 +91,7 @@
 ._形状 {
 }
 .icon {
+}
+._水平线 {
 }
 textarea, select, input, button { outline: none; }
