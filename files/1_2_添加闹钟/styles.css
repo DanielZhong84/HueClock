@@ -3665,8 +3665,8 @@
 #u163 {
   border-width:0px;
   position:absolute;
-  left:447px;
-  top:733px;
+  left:393px;
+  top:746px;
   width:325px;
   height:128px;
   display:flex;
@@ -4922,5 +4922,53 @@
 #u196_text {
   border-width:0px;
   white-space:nowrap;
+  text-transform:none;
+}
+#u197_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:325px;
+  height:128px;
+  background:inherit;
+  background-color:rgba(66, 123, 147, 1);
+  border:none;
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:25px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u197 {
+  border-width:0px;
+  position:absolute;
+  left:472px;
+  top:1223px;
+  width:325px;
+  height:128px;
+  display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:25px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u197 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u197_text {
+  border-width:0px;
+  word-wrap:break-word;
   text-transform:none;
 }
